@@ -1,0 +1,19 @@
+input {
+  width: 80%;
+}
+
+.container {
+  padding: 2px;
+  max-width: 800px;
+  text-align: left;
+
+  box-shadow: 0 0 2px #adabab;
+}
+
+.todo__item-row {
+  margin: 10px 5px;
+}
+
+.todo__button {
+  min-width: 80px;
+}
